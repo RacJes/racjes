@@ -3,7 +3,7 @@
   <img align="center" alt="rafael-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="rafael-Python" height="30" width="30" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
   <img align="center" alt="rafael-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Marisa-pic" height="150" style="border-radius:50px;" src="https://emoji.gg/assets/emoji/1498-pepe-studying.png">
+  <img align="right" alt="rafael-pic" height="150" style="border-radius:50px;" src="https://emoji.gg/assets/emoji/1498-pepe-studying.png">
 </div>
   
   ##
